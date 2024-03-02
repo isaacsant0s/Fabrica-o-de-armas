@@ -14,6 +14,7 @@ Framework: vrpex
 
 <div>
   <p>Previw:</p>
-  <img src="![image](https://github.com/isaacsant0s/Fabrica-o-de-armas/assets/132119675/3101b85d-b028-4434-8681-aede142b865b)
+![image](https://github.com/isaacsant0s/Fabrica-o-de-armas/assets/132119675/8c914a6a-bf3c-4150-8bca-a80cd9bb1888)
+
 "/>
 </div>
