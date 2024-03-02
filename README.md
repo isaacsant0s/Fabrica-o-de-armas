@@ -14,5 +14,6 @@ Framework: vrpex
 
 <div>
   <p>Previw:</p>
-  <img src="https://cdn.discordapp.com/attachments/1087882736557113457/1090864390707884072/image.png"/>
+  <img src="![image](https://github.com/isaacsant0s/Fabrica-o-de-armas/assets/132119675/3101b85d-b028-4434-8681-aede142b865b)
+"/>
 </div>
