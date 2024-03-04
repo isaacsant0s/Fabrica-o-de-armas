@@ -18,3 +18,5 @@ Framework: vrpex
 
 "/>
 </div>
+
+CREDITOS AO CONTI, YOUTUBE PAPO DE EDITOR
